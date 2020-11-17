@@ -63,6 +63,7 @@ body{
             transition-timing-function: ease-in-out;
             color: white;
             text-align: center;
+            cursor: pointer;
             
             &:hover{
                 box-shadow: grey .2em .2em 2em;
